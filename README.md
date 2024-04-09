@@ -1,7 +1,7 @@
 # GorillaScript
 GorillaScript is a roblox LIKE Executer but for Gorilla Tag
 
-### Option 1: Clone the Repository
+## Installation Guide
 
 ```bash
 git clone https://github.com/itzNemo3/GorillaScript.git

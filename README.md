@@ -8,6 +8,7 @@ git clone https://github.com/itzNemo3/GorillaScript.git
 cd GorillaScript
 cd form
 build.bat
+cd ../
 cd dll
 build.bat
 ```

@@ -5,6 +5,7 @@ GorillaScript is a roblox LIKE Executer but for Gorilla Tag
 
 ```bash
 git clone https://github.com/itzNemo3/GorillaScript.git
+cd GorillaScript
 cd form
 build.bat
 cd dll
